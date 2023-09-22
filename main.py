@@ -8,4 +8,4 @@ number = int(input("Enter the number: "))
 squared_number = calculate_square(number)
 print(f"Square of the {number} is {squared_number}")
 
-#comment for commit
+#comment for commit will be extended

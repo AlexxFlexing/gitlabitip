@@ -9,3 +9,4 @@ squared_number = calculate_square(number)
 print(f"Square of the {number} is {squared_number}")
 
 #comment for commit will be extended
+#this comment will end with number 1

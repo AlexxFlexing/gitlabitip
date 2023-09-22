@@ -7,6 +7,6 @@ greet(name)
 number = int(input("Enter the number: "))
 squared_number = calculate_square(number)
 print(f"Square of the {number} is {squared_number}")
-
+x = 10
 #comment for commit will be extended
 #this comment will end with number 2
